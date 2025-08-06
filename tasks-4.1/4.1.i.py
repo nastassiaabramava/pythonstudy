@@ -7,4 +7,4 @@ names = {
 
 
 def month(number, language):
-    return names[language][number - 1]    #тк нумерация с 0
+    return names[language][number - 1]
