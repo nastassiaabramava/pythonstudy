@@ -17,6 +17,6 @@
 [4.1. Функции. Области видимости. Передача параметров в функции](https://education.yandex.ru/handbook/python/article/funkcii-oblasti-vidimosti-peredacha-parametrov-v-funkcii?utm_source=vk&utm_medium=cpc&utm_campaign=handbook&utm_content=all_groups)  
 [4.2. Позиционные и именованные аргументы. Функции высших порядков. Лямбда-функции](https://education.yandex.ru/handbook/python/article/pozicionnye-i-imenovannye-argumenty-funkcii-vysshih-poryadkov-lyambda-funkcii?utm_source=vk&utm_medium=cpc&utm_campaign=handbook&utm_content=all_groups)  
 [4.3. Рекурсия. Декораторы. Генераторы](https://education.yandex.ru/handbook/python/article/rekursiya-dekoratory-generatory?utm_source=vk&utm_medium=cpc&utm_campaign=handbook&utm_content=all_groups)  
-[4.4. Чему вы научились](https://education.yandex.ru/handbook/python/article/4.4.-chemu-vi-nauchilis?utm_source=vk&utm_medium=cpc&utm_campaign=handbook&utm_content=all_groups)
+
   
 
