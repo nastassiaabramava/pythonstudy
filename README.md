@@ -18,5 +18,10 @@
 [4.2. Позиционные и именованные аргументы. Функции высших порядков. Лямбда-функции](https://education.yandex.ru/handbook/python/article/pozicionnye-i-imenovannye-argumenty-funkcii-vysshih-poryadkov-lyambda-funkcii?utm_source=vk&utm_medium=cpc&utm_campaign=handbook&utm_content=all_groups)  
 [4.3. Рекурсия. Декораторы. Генераторы](https://education.yandex.ru/handbook/python/article/rekursiya-dekoratory-generatory?utm_source=vk&utm_medium=cpc&utm_campaign=handbook&utm_content=all_groups)  
 
+ [5. Объектно-ориентированное программирование](https://education.yandex.ru/handbook/python?utm_source=vk&utm_medium=cpc&utm_campaign=handbook&utm_content=all_groups#:~:text=5.%20%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BD%D0%BE%2D%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
+[5.1. Объектная модель Python. Классы, поля и методы](https://education.yandex.ru/handbook/python/article/obuektnaya-model-python-klassy-polya-i-metody?utm_source=vk&utm_medium=cpc&utm_campaign=handbook&utm_content=all_groups)
+[5.2. Волшебные методы, переопределение методов. Наследование](https://education.yandex.ru/handbook/python/article/volshebnye-metody-pereopredelenie-metodov-nasledovanie?utm_source=vk&utm_medium=cpc&utm_campaign=handbook&utm_content=all_groups)
+[5.3. Модель исключений Python. Try, except, else, finally. Модули](https://education.yandex.ru/handbook/python/article/model-isklyuchenij-python-try-except-else-finally-moduli?utm_source=vk&utm_medium=cpc&utm_campaign=handbook&utm_content=all_groups)
+
   
 
