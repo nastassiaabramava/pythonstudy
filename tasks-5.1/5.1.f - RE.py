@@ -21,3 +21,9 @@ class Rectangle:
     def resize(self, width, height):
         self.width = width
         self.height = height
+
+    def perimeter(self):
+        return round((2 * (self.width + self.height)), 2)
+
+    def area(self):
+        return round((self.width * self.height), 2)
