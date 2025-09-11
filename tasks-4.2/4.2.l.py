@@ -17,6 +17,6 @@ def get_sum():
 
 
 def get_average():
-    avr1 = sum(first) / len(first) if first else 0.0
-    avr2 = sum(second) / len(second) if second else 0.0
+    avr1 = round(sum(first) / len(first), 2) if first else 0.0
+    avr2 = round(sum(second) / len(second), 2) if second else 0.0
     return avr1, avr2
