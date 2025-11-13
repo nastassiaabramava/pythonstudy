@@ -1,0 +1,1 @@
+max(first * second for first in numbers for second in numbers if first != second)
