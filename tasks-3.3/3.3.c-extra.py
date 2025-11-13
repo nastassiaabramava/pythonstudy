@@ -1,0 +1,1 @@
+[i for i in range(a, b + 1) if i % d == 0]

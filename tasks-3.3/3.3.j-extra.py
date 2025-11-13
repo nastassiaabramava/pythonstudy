@@ -1,0 +1,3 @@
+[word for word in words.split() if sum(len(let) for let in word if let in 'АЕЁИОУЫЭЮЯAEIOUYаеёиоуыэюяaeiouy') >= 3]
+
+# не уверена насчет len(let), но без этого ошибка
